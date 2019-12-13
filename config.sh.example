@@ -1,0 +1,4 @@
+export MY_SLACK_TOKEN=xoxihjasdh8123
+export MY_GROUPS='cool-team awesome-team'
+export AWS_PROFILE_NAME=default
+export BACKUP_S3_URL=s3://my-bucket/backups/slack

@@ -1,3 +1,9 @@
+# Additions
+
+Add scripts for zipping certain groups and then sending to s3 bucket
+
+
+# Forked Repo Docs
 # Slack Exporter
 A python slack exporter
 
