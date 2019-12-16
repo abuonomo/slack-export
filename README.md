@@ -7,11 +7,14 @@ First fill in the values in [config.sh.example](config.sh.example). Then change 
 ```
 mv config.sh.example config.sh
 ```
-Then run the export:
+Then use the `make` to build the image:
 ```
-bash export.sh
+make build
 ```
-
+Once the image is built, you can upload the group-data specific in the `config.sh` file by running:
+```
+make run
+```
 
 # Forked Repo Docs
 # Slack Exporter
