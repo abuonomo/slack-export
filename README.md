@@ -1,6 +1,16 @@
 # Additions
 
-Add scripts for zipping certain groups and then sending to s3 bucket
+Add scripts for zipping certain groups and then sending to s3 bucket.
+
+## How to run
+First fill in the values in [config.sh.example](config.sh.example). Then change its name:
+```
+mv config.sh.example config.sh
+```
+Then run the export:
+```
+bash export.sh
+```
 
 
 # Forked Repo Docs

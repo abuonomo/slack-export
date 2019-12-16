@@ -5,3 +5,4 @@ pick==0.6.4
 requests==2.22.0
 slacker==0.13.0
 urllib3==1.25.7
+awscli==1.16.303

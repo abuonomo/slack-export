@@ -1,4 +1,6 @@
+export AWS_ACCESS_KEY_ID=myaccesskey
+export AWS_SECRET_ACCESS_KEY=mysecretaccesskey
+export AWS_DEFAULT_REGION=your-region
 export MY_SLACK_TOKEN=xoxihjasdh8123
-export MY_GROUPS='cool-team awesome-team'
-export AWS_PROFILE_NAME=default
-export BACKUP_S3_URL=s3://my-bucket/backups/slack
+export MY_GROUPS='cool-team awesome-team' # names of groups to export separated by spaces
+export BACKUP_S3_URL=s3://my-bucket/backups/slack # make sure to not have a trailing slash here
