@@ -1,4 +1,5 @@
-# Additions
+# Export Slack Group Conversations to S3 Bucket
+This project requires docker and gnu make.
 
 Add scripts for zipping certain groups and then sending to s3 bucket.
 
